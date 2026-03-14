@@ -1,6 +1,11 @@
-# CRNN Handwritten Word Recognition
+# Handwritten Word Recognition using CRNN
 
-**Deep learning model that recognizes handwritten words from images using a Convolutional Recurrent Neural Network (CRNN).**
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![Dataset](https://img.shields.io/badge/Dataset-IAM-green)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
+**Deep learning system that recognizes handwritten words from images using a Convolutional Recurrent Neural Network (CRNN) trained on the IAM Handwriting Dataset.**
 
 ---
 
@@ -129,6 +134,5 @@ This project can be extended in several ways:
 
 **Khushi Gupta**
 
-* Third year
 * B.Tech – Artificial Intelligence & Data Science
 * KJ Somaiya Institute of Technology
