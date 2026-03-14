@@ -19,6 +19,17 @@ This project demonstrates how **deep learning can be used to automate handwritte
 
 ---
 
+# Technologies Used
+
+* Python  
+* TensorFlow / Keras  
+* OpenCV  
+* NumPy  
+* Matplotlib  
+* Google Colab
+
+---
+
 # Dataset & Resources
 
 The following resources were used in this project:
@@ -46,6 +57,7 @@ The following resources were used in this project:
 ---
 
 # System Architecture
+CRNN model pipeline used for handwritten word recognition.
 
 ![System flowchart](crnn/flow.png)
 
@@ -96,7 +108,17 @@ Run the notebook to:
 * Test handwritten word recognition
 
 ---
+# Applications
 
+Handwritten text recognition has several real-world applications:
+
+• Digitization of historical documents  
+• Postal address recognition  
+• Automated form processing  
+• Bank cheque reading systems  
+• Document search and indexing
+
+---
 # Results
 
 The model was evaluated using:
