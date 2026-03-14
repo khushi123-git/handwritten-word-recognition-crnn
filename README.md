@@ -42,6 +42,7 @@ The following resources were used in this project:
 
 # System Architecture
 
+![System flowchart](crnn/flow.png)
 
 ---
 
@@ -96,9 +97,16 @@ Run the notebook to:
 The model was evaluated using:
 
 * **Training Accuracy**
+  ![Training accuracy for 5 epochs](crnn/acc.png)
 * **Character Accuracy**
+   ![Character accuracy for 5 epochs](crnn/char_acc.png)
 * **Prediction examples on handwritten words**
-
+  ![Example 1: Using image from IAM dataset](crnn/eg1.png)
+  ![Example 2: Using image from IAM dataset](crnn/eg2.png)
+  ![Example 3: Using image from IAM dataset](crnn/eg3.png)
+  ![Example 4: Using image from IAM dataset](crnn/eg4.png)
+* **Prediction using online images**
+  ![Example 1: Image taken from Google images](crnn/test.png)
 The model demonstrates strong performance in recognizing handwritten text from the IAM dataset.
 
 
@@ -120,4 +128,7 @@ This project can be extended in several ways:
 # Author
 
 **Khushi Gupta**
-B.Tech – Artificial Intelligence & Data Science
+
+* Third year
+* B.Tech – Artificial Intelligence & Data Science
+* KJ Somaiya Institute of Technology
